@@ -1,5 +1,6 @@
 - Hi, I’m @fintan-ryan
-- I’m currently in my second year of the BSc. Data Science and Analytics at UCC
+- I’m currently in my third year of the BSc. Data Science and Analytics at UCC
+- I'm currently working on [revu.art](url)
 - I’m particularly interested in data visualisation, optimisation and problem solving
 - I’m looking to collaborate on anything and everything; I'm always eager to learn.
 - You can reach me by sending an email to 119400506@umail.ucc.ie
