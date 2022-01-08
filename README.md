@@ -1,5 +1,5 @@
 - Hi, I’m @fintan-ryan
-- I’m currently in my third year of the BSc. Data Science and Analytics at UCC
+- I’m in my third year of the BSc. Data Science and Analytics at UCC
 - I'm currently working on [revu.art](http://revu.art/)
 
 <!---
